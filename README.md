@@ -1,2 +1,7 @@
-### Hi there, I am Mayank 👋
-Enginerring student looking to join the workforce to gain real-World experience. Ability to complete tasks on time in both individual and team setting.Dependable and reliable, ready to learn and utilize my skills and grow with the company.
+### Hi👋 I am Mayank, Fullstack developer from India. 
+Dedicated and proactive final year engineering student specializing in information technology, equipped
+with comprehensive skills in the MERN stack. Demonstrated ability to deliver high-quality results within
+deadlines, both independently and collaboratively. Known for dependability, reliability, and a strong work
+ethic. Committed to utilizing technical expertise and problem-solving skills to contribute to innovative
+projects and achieve successful outcomes in dynamic team environments.
+
